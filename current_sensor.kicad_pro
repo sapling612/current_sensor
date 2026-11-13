@@ -423,11 +423,22 @@
     "reuse_designators": true,
     "subpart_first_id": 65,
     "subpart_id_separator": 0,
-    "top_level_sheets": [],
-    "used_designators": "",
+    "top_level_sheets": [
+      {
+        "filename": "current_sensor.kicad_sch",
+        "name": "current_sensor",
+        "uuid": "985b5080-a2ef-4bb1-84f6-278928a46467"
+      }
+    ],
+    "used_designators": "U1",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "985b5080-a2ef-4bb1-84f6-278928a46467",
+      "current_sensor"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
