@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "CT100_custom") (type "KiCad") (uri "${KIPRJMOD}/CT100_custom.kicad_sym") (options "") (descr ""))
+)
