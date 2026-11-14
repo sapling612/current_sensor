@@ -4,6 +4,16 @@
 	(generator_version "10.0")
 	(uuid "985b5080-a2ef-4bb1-84f6-278928a46467")
 	(paper "A3")
+	(title_block
+		(title "CT100 Analog Front End")
+		(date "2026-11-13")
+		(rev "1")
+		(comment 1 "the current 3.3v is provisional, i am not sure what the actual one is at the moment so it will be replaced with that")
+		(comment 2 "final voltage and power source pending confirmation.")
+		(comment 3 "32 CT100 sensors, 4 ADG706 multiplexers, 2 AD8572 amplifiers, WBZ451 controller.")
+		(comment 4 "Schematic review version — PCB layout not yet completed.")
+		(comment 5 "Designed by: Tre Turner")
+	)
 	(lib_symbols
 		(symbol "CT100_custom:AD8572"
 			(exclude_from_sim no)
