@@ -14229,7 +14229,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical"
+		(property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm"
 			(at 327.66 101.6 0)
 			(hide yes)
 			(show_name no)
