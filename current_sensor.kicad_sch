@@ -5,6 +5,249 @@
 	(uuid "985b5080-a2ef-4bb1-84f6-278928a46467")
 	(paper "A4")
 	(lib_symbols
+		(symbol "CT100_custom:AD8572"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "U"
+				(at 3.556 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Package_SO:TSSOP-8_4.4x3mm_P0.65mm"
+				(at 0.508 3.048 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "AD8572_1_1"
+				(polyline
+					(pts
+						(xy -2.54 3.81) (xy 8.89 -2.54) (xy -2.54 -7.62) (xy -2.54 3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin output line
+					(at 11.43 -2.54 180)
+					(length 2.54)
+					(name "OUTA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "-INA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 -2.54 0)
+					(length 2.54)
+					(name "+INA"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -5.08 -5.08 0)
+					(length 2.54)
+					(name "V-"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "AD8572_2_1"
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 11.43 -3.81) (xy 0 -8.89) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -2.54 -1.27 0)
+					(length 2.54)
+					(name "+INB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -2.54 -3.81 0)
+					(length 2.54)
+					(name "-INB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 13.97 -3.81 180)
+					(length 2.54)
+					(name "OUTB"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at -2.54 -6.35 0)
+					(length 2.54)
+					(name "V+"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "CT100_custom:ADG706"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1021,6 +1264,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 95.25) (xy 127 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09ab8d1f-5c53-448a-83f8-089c952c2c31")
+	)
+	(wire
+		(pts
 			(xy 81.28 85.09) (xy 80.01 85.09)
 		)
 		(stroke
@@ -1234,6 +1487,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 92.71) (xy 128.27 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "22f20ac1-de92-4feb-85d5-fbf5cd059fe6")
+	)
+	(wire
+		(pts
 			(xy 77.47 127) (xy 77.47 74.93)
 		)
 		(stroke
@@ -1264,6 +1527,16 @@
 			(color 255 0 255 1)
 		)
 		(uuid "244f06cb-353a-43d5-a225-32106875d17b")
+	)
+	(wire
+		(pts
+			(xy 146.05 87.63) (xy 146.05 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2475f883-8df3-49a1-bb6f-efb10ee3b244")
 	)
 	(wire
 		(pts
@@ -1439,6 +1712,16 @@
 	)
 	(wire
 		(pts
+			(xy 128.27 68.58) (xy 128.27 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "389282e4-0ac8-4151-b229-6f94ec55acc8")
+	)
+	(wire
+		(pts
 			(xy 59.69 144.78) (xy 59.69 132.08)
 		)
 		(stroke
@@ -1555,6 +1838,16 @@
 	)
 	(wire
 		(pts
+			(xy 96.52 52.07) (xy 125.73 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "437e6798-5219-474f-a09f-81f5d37abc2b")
+	)
+	(wire
+		(pts
 			(xy 33.02 97.79) (xy 33.02 99.06)
 		)
 		(stroke
@@ -1615,6 +1908,16 @@
 			(color 128 77 0 1)
 		)
 		(uuid "483292e5-c1ba-4e5f-a640-98e00309e7cb")
+	)
+	(wire
+		(pts
+			(xy 128.27 63.5) (xy 146.05 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4924555b-8411-43fe-b002-9e1c5623ccc1")
 	)
 	(wire
 		(pts
@@ -1714,6 +2017,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 114.3) (xy 125.73 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "548a4b61-3b50-4e8b-87da-bb845c667a82")
+	)
+	(wire
+		(pts
 			(xy 96.52 144.78) (xy 100.33 144.78)
 		)
 		(stroke
@@ -1763,6 +2076,16 @@
 			(type default)
 		)
 		(uuid "5abed400-3beb-45c3-9e49-e448529d1e5a")
+	)
+	(wire
+		(pts
+			(xy 125.73 52.07) (xy 125.73 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5dcc1cb5-d2a1-4111-b847-9d1c048b5be6")
 	)
 	(wire
 		(pts
@@ -1879,6 +2202,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 95.25) (xy 127 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c9c0050-00ec-441e-a2e4-a0c5ecba0bb2")
+	)
+	(wire
+		(pts
 			(xy 27.94 82.55) (xy 33.02 82.55)
 		)
 		(stroke
@@ -1951,6 +2284,16 @@
 			(color 132 0 132 1)
 		)
 		(uuid "799f1d41-9ac8-43fd-8304-53c208eab6fb")
+	)
+	(wire
+		(pts
+			(xy 96.52 114.3) (xy 125.73 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79bbf6ef-8da6-427b-b982-f1c8c641493d")
 	)
 	(wire
 		(pts
@@ -2644,6 +2987,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 71.12) (xy 144.78 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7654fbb-881d-435b-b5cd-714b6b89abc8")
+	)
+	(wire
+		(pts
 			(xy 33.02 154.94) (xy 33.02 156.21)
 		)
 		(stroke
@@ -2909,6 +3262,16 @@
 	)
 	(wire
 		(pts
+			(xy 125.73 71.12) (xy 128.27 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec38471e-df4f-4cd3-a3ba-cc9be15fa0c6")
+	)
+	(wire
+		(pts
 			(xy 96.52 62.23) (xy 101.6 62.23)
 		)
 		(stroke
@@ -2993,6 +3356,16 @@
 	)
 	(wire
 		(pts
+			(xy 127 87.63) (xy 146.05 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f562e30b-d3e8-48ec-8263-9569ed324560")
+	)
+	(wire
+		(pts
 			(xy 33.02 177.8) (xy 33.02 179.07)
 		)
 		(stroke
@@ -3034,6 +3407,16 @@
 	)
 	(wire
 		(pts
+			(xy 146.05 63.5) (xy 146.05 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbcb787b-eca7-46ae-91f8-b18a0f951496")
+	)
+	(wire
+		(pts
 			(xy 63.5 179.07) (xy 63.5 124.46)
 		)
 		(stroke
@@ -3042,6 +3425,16 @@
 			(color 0 0 72 1)
 		)
 		(uuid "fc4d1eef-6855-4d94-a3ce-ac7a7c4f349b")
+	)
+	(wire
+		(pts
+			(xy 146.05 95.25) (xy 144.78 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe607d23-972c-4e23-bb81-1ce5a89359b8")
 	)
 	(wire
 		(pts
@@ -4621,6 +5014,104 @@
 		)
 	)
 	(symbol
+		(lib_id "CT100_custom:AD8572")
+		(at 130.81 91.44 0)
+		(unit 2)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "849d4d70-4258-462e-b75f-3cdbfec8f98d")
+		(property "Reference" "U19"
+			(at 136.525 86.36 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 130.81 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:TSSOP-8_4.4x3mm_P0.65mm"
+			(at 131.318 88.392 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 130.81 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 130.81 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "7"
+			(uuid "44d0af2a-0270-4c29-ba40-488bf3fd80e7")
+		)
+		(pin "2"
+			(uuid "1751c534-1b46-40a8-b45b-b34806643488")
+		)
+		(pin "5"
+			(uuid "1bc7e24b-69e5-4608-8512-b3a56f998d97")
+		)
+		(pin "8"
+			(uuid "831e268c-881f-402f-bd76-549f7a0c23e3")
+		)
+		(pin "1"
+			(uuid "86183be7-3551-4232-bd7a-a0d45b97ea26")
+		)
+		(pin "4"
+			(uuid "352fa0db-b4d2-4f67-b5f4-7bb5a6767842")
+		)
+		(pin "3"
+			(uuid "b4d04c4c-ae5c-45f3-ac43-8d9377d89e45")
+		)
+		(pin "6"
+			(uuid "26b36f56-c078-46d7-af42-b4447d551ba0")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "U19")
+					(unit 2)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 27.94 170.18 0)
 		(mirror y)
@@ -5040,6 +5531,104 @@
 			(project "current_sensor"
 				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
 					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CT100_custom:AD8572")
+		(at 133.35 68.58 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9db2a87d-b43f-4c3c-86e0-706cfb2d773e")
+		(property "Reference" "U19"
+			(at 136.525 62.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 133.35 68.58 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:TSSOP-8_4.4x3mm_P0.65mm"
+			(at 133.858 65.532 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 133.35 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "7"
+			(uuid "44d0af2a-0270-4c29-ba40-488bf3fd80e7")
+		)
+		(pin "2"
+			(uuid "1751c534-1b46-40a8-b45b-b34806643488")
+		)
+		(pin "5"
+			(uuid "1bc7e24b-69e5-4608-8512-b3a56f998d97")
+		)
+		(pin "8"
+			(uuid "831e268c-881f-402f-bd76-549f7a0c23e3")
+		)
+		(pin "1"
+			(uuid "86183be7-3551-4232-bd7a-a0d45b97ea26")
+		)
+		(pin "4"
+			(uuid "352fa0db-b4d2-4f67-b5f4-7bb5a6767842")
+		)
+		(pin "3"
+			(uuid "b4d04c4c-ae5c-45f3-ac43-8d9377d89e45")
+		)
+		(pin "6"
+			(uuid "26b36f56-c078-46d7-af42-b4447d551ba0")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "U19")
 					(unit 1)
 				)
 			)
