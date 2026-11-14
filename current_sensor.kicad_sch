@@ -1502,40 +1502,16 @@
 		(uuid "419c7546-6a5e-46d2-8492-6fc47fe8b471")
 	)
 	(junction
-		(at 173.99 31.75)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "422df73f-eddf-4eeb-9cec-86697690e0db")
-	)
-	(junction
-		(at 163.83 22.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4b3dc456-0f82-4ada-b05b-c397be1cc94a")
-	)
-	(junction
 		(at 30.48 22.86)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5610ee7b-7713-473a-9f08-e59d211b93c4")
 	)
 	(junction
-		(at 173.99 24.13)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5e1e010a-471e-4254-acaa-446f02c81dd4")
-	)
-	(junction
 		(at 91.44 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5fab3b07-d51f-4614-848c-f9746ba5861b")
-	)
-	(junction
-		(at 161.29 30.48)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6ccb4a13-59bd-4d83-a1d7-ec065e167551")
 	)
 	(junction
 		(at 80.01 105.41)
@@ -1813,26 +1789,6 @@
 			(color 194 194 0 1)
 		)
 		(uuid "0886fb4e-366e-4e45-96a1-d3582c8d54d7")
-	)
-	(wire
-		(pts
-			(xy 173.99 22.86) (xy 173.99 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "08fd29b6-579b-4912-9ebe-bd64f8bd027c")
-	)
-	(wire
-		(pts
-			(xy 160.02 30.48) (xy 161.29 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "09754768-edea-4989-8472-080f7503442b")
 	)
 	(wire
 		(pts
@@ -2527,7 +2483,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 31.75) (xy 177.8 31.75)
+			(xy 172.72 31.75) (xy 177.8 31.75)
 		)
 		(stroke
 			(width 0)
@@ -3315,16 +3271,6 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 30.48) (xy 163.83 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4bd750bc-5fe2-434d-af53-3aa026fbbde9")
-	)
-	(wire
-		(pts
 			(xy 204.47 110.49) (xy 204.47 49.53)
 		)
 		(stroke
@@ -3600,16 +3546,6 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 22.86) (xy 173.99 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "57e0dcd2-82da-49d2-92ce-173b58a965f4")
-	)
-	(wire
-		(pts
 			(xy 44.45 69.85) (xy 44.45 71.12)
 		)
 		(stroke
@@ -3868,16 +3804,6 @@
 			(color 255 0 0 1)
 		)
 		(uuid "672d6c39-1328-4c02-8b39-bab2958430b1")
-	)
-	(wire
-		(pts
-			(xy 163.83 33.02) (xy 173.99 33.02)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "673984a6-c45d-4207-9edb-2e474c92ee42")
 	)
 	(wire
 		(pts
@@ -4428,16 +4354,6 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 27.94) (xy 163.83 22.86)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "84f26ec5-656e-41ba-b572-f93d4905daa7")
-	)
-	(wire
-		(pts
 			(xy 208.28 130.81) (xy 226.06 130.81)
 		)
 		(stroke
@@ -4502,7 +4418,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 24.13) (xy 177.8 24.13)
+			(xy 172.72 24.13) (xy 177.8 24.13)
 		)
 		(stroke
 			(width 0)
@@ -4885,16 +4801,6 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 33.02) (xy 173.99 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "98440b92-92c5-4545-8394-8846c90733bc")
-	)
-	(wire
-		(pts
 			(xy 212.09 157.48) (xy 242.57 157.48)
 		)
 		(stroke
@@ -4935,16 +4841,6 @@
 			(color 0 0 0 1)
 		)
 		(uuid "9cffc409-ac0a-4591-ad14-bc75f77cc9cc")
-	)
-	(wire
-		(pts
-			(xy 172.72 24.13) (xy 173.99 24.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d76f133-3f8a-4792-ba68-0b266deaab81")
 	)
 	(wire
 		(pts
@@ -5460,16 +5356,6 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 27.94) (xy 163.83 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b9d07c33-39a2-47a0-a557-08c93ca0534e")
-	)
-	(wire
-		(pts
 			(xy 71.12 138.43) (xy 92.71 138.43)
 		)
 		(stroke
@@ -5818,16 +5704,6 @@
 			(type default)
 		)
 		(uuid "c78e141e-de51-448e-b61c-d6bd3407877a")
-	)
-	(wire
-		(pts
-			(xy 172.72 31.75) (xy 173.99 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c7ad5f9e-c324-40f2-94c7-4b4fcaaec615")
 	)
 	(wire
 		(pts
@@ -6471,16 +6347,6 @@
 			(color 255 229 191 1)
 		)
 		(uuid "e178ec75-512f-48d5-9d70-544a7a25b295")
-	)
-	(wire
-		(pts
-			(xy 161.29 30.48) (xy 163.83 30.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e21577e9-b715-4069-bc40-3ca26d6a42ed")
 	)
 	(wire
 		(pts
@@ -10260,84 +10126,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 163.83 22.86 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2bd9d49d-839b-4ed5-851a-02a8710fd73d")
-		(property "Reference" "#FLG04"
-			(at 163.83 20.955 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 163.83 17.78 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 163.83 22.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 163.83 22.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 163.83 22.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "b286a9e1-09a2-421d-860b-0971d48dcd64")
-		)
-		(instances
-			(project "current_sensor"
-				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
-					(reference "#FLG04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "CT100_custom:ADG706")
 		(at 100.33 116.84 0)
 		(unit 1)
@@ -10749,165 +10537,6 @@
 			(project "current_sensor"
 				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
 					(reference "C17")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:PWR_FLAG")
-		(at 161.29 30.48 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3993d3c8-856a-4ae2-8058-d622a59d9a57")
-		(property "Reference" "#FLG03"
-			(at 161.29 28.575 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PWR_FLAG"
-			(at 161.29 25.4 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 161.29 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 161.29 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 161.29 30.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "5106c8ac-d81a-4931-be13-29cdbb96b272")
-		)
-		(instances
-			(project "current_sensor"
-				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
-					(reference "#FLG03")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 154.94 27.94 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3f9c7af6-6c79-40ef-8b93-75b664e6519d")
-		(property "Reference" "J2"
-			(at 154.94 21.59 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x02"
-			(at 154.94 24.13 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 154.94 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 154.94 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 154.94 27.94 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "9bf0ef76-358d-42ca-aa55-d4aabb478ac8")
-		)
-		(pin "1"
-			(uuid "a9077094-11ee-4853-adfc-f6c84d23ccc7")
-		)
-		(instances
-			(project "current_sensor"
-				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
-					(reference "J2")
 					(unit 1)
 				)
 			)
