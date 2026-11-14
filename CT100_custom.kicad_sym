@@ -28,8 +28,8 @@
 				)
 			)
 		)
-		(property "Footprint" ""
-			(at 0 0 0)
+		(property "Footprint" "Package_SO:TSSOP-8_4.4x3mm_P0.65mm"
+			(at 0.508 3.048 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(hide yes)
