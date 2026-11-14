@@ -9888,6 +9888,31 @@
 	)
 	(global_label "GND"
 		(shape passive)
+		(at 151.13 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "3d11d64a-796e-4cf5-95bc-dd5ecbd09a92")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 156.8744 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape passive)
 		(at 327.66 116.84 270)
 		(fields_autoplaced yes)
 		(effects
@@ -10100,6 +10125,31 @@
 		(uuid "4e883c63-233a-40e2-80f8-2c95681edc0a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 166.9756 203.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "+3.3V"
+		(shape passive)
+		(at 143.51 87.63 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 0 1)
+			)
+			(justify right)
+		)
+		(uuid "4ea26fe9-c625-437d-bc78-41ee741d7df9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 135.9513 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11036,6 +11086,31 @@
 			)
 		)
 	)
+	(global_label "+3.3V"
+		(shape passive)
+		(at 276.86 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 255 0 0 1)
+			)
+			(justify right)
+		)
+		(uuid "c13d138f-ad5b-4000-92b9-a661ebcef1a8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 269.3013 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "GND"
 		(shape passive)
 		(at 350.52 82.55 180)
@@ -11583,6 +11658,31 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape passive)
+		(at 284.48 88.9 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(color 0 0 0 1)
+			)
+			(justify left)
+		)
+		(uuid "fd279610-2f39-4866-a9de-06fd5066749c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 290.2244 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -16015,6 +16115,86 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 147.32 87.63 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "97271f90-d505-4294-a3a6-2a1a9ad669a5")
+		(property "Reference" "C42"
+			(at 147.32 80.01 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100nF"
+			(at 147.32 82.55 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 151.13 86.6648 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 147.32 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 147.32 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "c763ba28-0af4-4872-8136-b5fc2be391cf")
+		)
+		(pin "2"
+			(uuid "ea503ce6-bcca-4519-876e-3eece495634f")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 39.37 187.96 0)
 		(mirror y)
 		(unit 1)
@@ -17159,6 +17339,86 @@
 			(project "current_sensor"
 				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
 					(reference "C40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 280.67 88.9 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c1c8350a-62b0-4a88-88a3-56031512d169")
+		(property "Reference" "C43"
+			(at 280.67 81.28 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100nF"
+			(at 280.67 83.82 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
+			(at 284.48 87.9348 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 280.67 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 280.67 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4d9fcbf6-e930-4eb8-92bc-9145c4475a40")
+		)
+		(pin "2"
+			(uuid "8856a7fb-0f7c-4c3a-bd96-69b58fa3a0e8")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C43")
 					(unit 1)
 				)
 			)
