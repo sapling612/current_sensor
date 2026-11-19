@@ -7,7 +7,7 @@
 	(title_block
 		(title "CT100 Analog Front End")
 		(date "2026-11-19")
-		(rev "2.0")
+		(rev "2.1")
 		(comment 1 "32-Channel Magnetic Current Sensor Array")
 		(comment 2 "Schematic Design")
 		(comment 3 "Author: Tre Turner")
@@ -13650,7 +13650,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 40.3352 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -16837,7 +16837,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 20.0152 36.83 0)
 			(hide yes)
 			(show_name no)
