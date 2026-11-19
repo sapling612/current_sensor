@@ -11885,7 +11885,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "current_sensor_custom:R_Bourns_PWR263S-35"
 			(at 101.092 238.76 90)
 			(hide yes)
 			(show_name no)
