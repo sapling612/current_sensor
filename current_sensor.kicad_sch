@@ -10080,7 +10080,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector:Banana_Jack_1Pin"
 			(at 102.87 247.65 0)
 			(hide yes)
 			(show_name no)
@@ -13115,7 +13115,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector:Banana_Jack_1Pin"
 			(at 115.57 247.65 0)
 			(hide yes)
 			(show_name no)
