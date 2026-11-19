@@ -855,7 +855,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector:Banana_Jack_1Pin"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -877,7 +877,7 @@
 				)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x01, script generated"
+		(property "Description" "Single 4mm banana jack"
 			(at 0 4.318 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -888,17 +888,7 @@
 				)
 			)
 		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "ki_keywords" "connector"
+		(property "ki_keywords" "banana connector"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -909,7 +899,7 @@
 				)
 			)
 		)
-		(property "ki_fp_filters" "Connector*:*_1x??_*"
+		(property "ki_fp_filters" "Connector:Banana_Jack_1pin"
 			(at 0 0 0)
 			(show_name no)
 			(do_not_autoplace no)
