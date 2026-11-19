@@ -4,3 +4,4 @@
 *.bak
 fp-info-cache
 .history/
+# Exclude local KiCad and editor files
