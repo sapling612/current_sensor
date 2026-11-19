@@ -6,13 +6,11 @@
 	(paper "A3")
 	(title_block
 		(title "CT100 Analog Front End")
-		(date "2026-11-13")
-		(rev "1")
-		(comment 1 "the current 3.3v is provisional")
-		(comment 2 "final voltage and power source pending confirmation.")
-		(comment 3 "32 CT100 sensors, 4 ADG706 multiplexers, 2 AD8572 amplifiers, WBZ451 controller.")
-		(comment 4 "Schematic review version — PCB layout not yet completed.")
-		(comment 5 "Designed by: Tre Turner")
+		(date "2026-11-19")
+		(rev "2.0")
+		(comment 1 "32-Channel Magnetic Current Sensor Array")
+		(comment 2 "Schematic Design")
+		(comment 3 "Author: Tre Turner")
 	)
 	(lib_symbols
 		(symbol "CT100_custom:AD8572"
