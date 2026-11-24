@@ -6,8 +6,8 @@
 	(paper "A3")
 	(title_block
 		(title "CT100 Analog Front End")
-		(date "2026-11-19")
-		(rev "2.1")
+		(date "2026-11-24")
+		(rev "2.2")
 		(comment 1 "32-Channel Magnetic Current Sensor Array")
 		(comment 2 "Schematic Design")
 		(comment 3 "Author: Tre Turner")
