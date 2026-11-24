@@ -3523,10 +3523,82 @@
 		(uuid "04dc4459-e713-4b4e-ae9d-042fb2a90e9b")
 	)
 	(junction
+		(at 209.55 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "07f6e0cd-26f0-4525-83ed-677e8f4ad538")
+	)
+	(junction
+		(at 209.55 209.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "094b7d6b-9ca8-4629-9062-145140537883")
+	)
+	(junction
+		(at 76.2 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0a0610e6-cd33-4106-bdb0-a7214858702b")
+	)
+	(junction
+		(at 209.55 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c1e425d-fda1-4a51-ac03-ee638f35d3e2")
+	)
+	(junction
+		(at 209.55 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0ef0d15c-8e20-4468-9933-1b24874da1ab")
+	)
+	(junction
+		(at 76.2 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "10c7c397-08b1-4467-b78f-1c5d752d1bb9")
+	)
+	(junction
 		(at 31.75 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1567a0cc-5972-4d53-bef2-1c99e7ef85c5")
+	)
+	(junction
+		(at 76.2 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "21e10e33-5852-47b7-a1f0-26cc95e752f6")
+	)
+	(junction
+		(at 209.55 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2217e499-adf4-47b6-a416-e4c089c6ad59")
+	)
+	(junction
+		(at 76.2 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2a681cc6-fbc9-49f6-b77a-a2bb435b5c1d")
+	)
+	(junction
+		(at 76.2 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2e6906a9-30a2-4564-b2ec-a7dce2773286")
+	)
+	(junction
+		(at 76.2 186.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2f74d0dd-e363-45fc-bd1e-178b0009ca8f")
+	)
+	(junction
+		(at 76.2 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "32b3d328-7366-4beb-8800-8ff85ae456d0")
 	)
 	(junction
 		(at 374.65 151.13)
@@ -3541,10 +3613,52 @@
 		(uuid "3c67ed3b-f893-474d-a01d-df25840d0290")
 	)
 	(junction
+		(at 209.55 167.64)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3d9e7a27-d414-4223-8427-5456617036ea")
+	)
+	(junction
+		(at 76.2 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "405c0883-7161-47b0-be80-ee58e04e76b0")
+	)
+	(junction
+		(at 209.55 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "40ddc882-1e27-4884-889c-052d9692d717")
+	)
+	(junction
+		(at 209.55 186.69)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4516de19-f034-475d-8fc8-f494205f1249")
+	)
+	(junction
 		(at 31.75 39.37)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "46f1889a-1e4a-4b2c-908e-86753859f72d")
+	)
+	(junction
+		(at 76.2 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5303138c-57c3-4c37-bb14-0e1b1633a0e9")
+	)
+	(junction
+		(at 76.2 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "534afe6a-5a8d-4e3c-b174-c0a5b61eb170")
+	)
+	(junction
+		(at 76.2 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "58076a66-d95a-48a7-b433-26e3ce02c5d4")
 	)
 	(junction
 		(at 361.95 151.13)
@@ -3553,10 +3667,130 @@
 		(uuid "591a2125-f33a-4eb2-842d-9bd743182421")
 	)
 	(junction
+		(at 209.55 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "59fd906f-72b3-4ed7-b88f-9fa01836a148")
+	)
+	(junction
+		(at 209.55 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f5b96b9-630c-436e-b357-6fa0467f294e")
+	)
+	(junction
+		(at 76.2 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6619ea7b-f676-4995-96a7-69b9c5d56ded")
+	)
+	(junction
 		(at 345.44 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "66943c41-463e-4791-941d-e20e40b1a9fc")
+	)
+	(junction
+		(at 76.2 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "669d1f15-11b0-4772-b2f3-f4452452cc99")
+	)
+	(junction
+		(at 76.2 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6711aa0d-2176-4df5-8140-ff47fe55f04d")
+	)
+	(junction
+		(at 209.55 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6b03fa44-dd21-46e2-b68d-2cbae443f64d")
+	)
+	(junction
+		(at 76.2 209.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "70b27111-1103-44ab-af9d-9e441b2f1706")
+	)
+	(junction
+		(at 209.55 156.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "71d981b1-5efb-4d7b-bb99-fe06455aa963")
+	)
+	(junction
+		(at 209.55 198.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7363702b-ed59-4a00-a6c7-1c176fc8d60a")
+	)
+	(junction
+		(at 76.2 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7368b182-5e32-4f7e-b308-1e72aadaca72")
+	)
+	(junction
+		(at 76.2 198.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "73fc139c-0c25-44de-a5c8-e8a764bde6e0")
+	)
+	(junction
+		(at 209.55 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "76c9e63b-b501-4a9f-9bdb-ee95cbec6adf")
+	)
+	(junction
+		(at 209.55 140.97)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "80520e45-a1a6-492c-aca5-1b35bff201ed")
+	)
+	(junction
+		(at 209.55 95.25)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "86686720-eebc-4a3c-837c-57a82db8da33")
+	)
+	(junction
+		(at 209.55 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88c35857-da6f-4b6c-b0eb-f9d365110f05")
+	)
+	(junction
+		(at 209.55 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8a81a78c-cbb9-4d1b-ac3f-2323b8f4882f")
+	)
+	(junction
+		(at 209.55 190.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8bc1b747-5433-42be-91ed-3175158b7e62")
+	)
+	(junction
+		(at 209.55 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8db69851-7b09-40d9-8eec-8733d897f0b8")
+	)
+	(junction
+		(at 76.2 163.83)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9084dca4-95bc-4d47-bf8e-b88add400c0f")
+	)
+	(junction
+		(at 76.2 201.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "91de2119-d1b2-41c4-8c29-c82d7f8fbee7")
 	)
 	(junction
 		(at 374.65 158.75)
@@ -3571,10 +3805,28 @@
 		(uuid "98cd621c-0709-468e-b785-f286e68e0ff5")
 	)
 	(junction
+		(at 76.2 72.39)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9cec9d5c-b0b1-45e0-b173-619449f24986")
+	)
+	(junction
 		(at 39.37 21.59)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a1c2b99a-e84d-4c43-a39e-77b3f7f20b9d")
+	)
+	(junction
+		(at 209.55 133.35)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a302f590-38ad-4b3d-beb9-812466cfafeb")
+	)
+	(junction
+		(at 76.2 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a727a60c-233f-4146-92fa-1304b1514c8d")
 	)
 	(junction
 		(at 31.75 36.83)
@@ -3583,16 +3835,148 @@
 		(uuid "a84a18ec-e222-44d8-b586-872aee1d26ce")
 	)
 	(junction
+		(at 76.2 175.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a9030b98-18ac-4f67-aa44-e4cc2f36c974")
+	)
+	(junction
+		(at 209.55 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b76768a4-cf97-406e-821c-32ed06157a9a")
+	)
+	(junction
+		(at 209.55 106.68)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b92eb5d8-0925-4d87-ae66-6b17ece81486")
+	)
+	(junction
+		(at 76.2 83.82)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ba8080e7-4f29-4f74-ba91-6a31ba103dcb")
+	)
+	(junction
+		(at 76.2 121.92)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c094a284-1258-4043-b6c5-93a14bb945bb")
+	)
+	(junction
 		(at 339.09 189.23)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c0fcf18c-1fdc-4000-bd78-4d663a614d69")
 	)
 	(junction
+		(at 209.55 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cf6ef7a8-7e3b-4591-9bd4-447e0edcca21")
+	)
+	(junction
 		(at 52.07 22.86)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d69876c5-0ba9-4602-a577-5eaa0e393f04")
+	)
+	(junction
+		(at 209.55 201.93)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d87024ab-9278-4d1a-b923-bf5ab2618f99")
+	)
+	(junction
+		(at 76.2 87.63)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "da96ad26-b99a-49e0-93b3-3d40b805b427")
+	)
+	(junction
+		(at 209.55 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dfaf15d3-50d8-4dce-bbcb-43bbfb231981")
+	)
+	(junction
+		(at 76.2 190.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dff85fe9-39c9-48fa-bc77-202cd70bface")
+	)
+	(junction
+		(at 76.2 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e015f69e-34d2-4ef9-a2e5-f84ae9ce3ec7")
+	)
+	(junction
+		(at 209.55 118.11)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e6b94d03-59e4-4e04-94f0-8df169261408")
+	)
+	(junction
+		(at 76.2 156.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ea3059e3-d75f-4c73-b3cb-f58f94f9af5b")
+	)
+	(junction
+		(at 76.2 64.77)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eec6ec6a-8424-4630-b738-f8510b965fce")
+	)
+	(junction
+		(at 209.55 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f047f9c5-df50-4126-b918-62e8752919c2")
+	)
+	(junction
+		(at 76.2 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f5a67a03-ed58-4838-a109-6ead23827692")
+	)
+	(junction
+		(at 76.2 41.91)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f6602e20-1a58-4af8-9b1c-159be017ac3f")
+	)
+	(junction
+		(at 209.55 179.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f992891f-7b21-460a-849d-068c0d870a6a")
+	)
+	(junction
+		(at 76.2 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f9aa4482-b2c7-4384-85bc-aef81ef5fd37")
+	)
+	(junction
+		(at 209.55 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fa306442-a7c9-4c14-b255-181c2fc6681d")
+	)
+	(junction
+		(at 209.55 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fdcc4189-7597-45a3-9285-6067de9047be")
+	)
+	(junction
+		(at 209.55 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "feadf878-86b8-4d37-a3bd-c7c79342c481")
 	)
 	(no_connect
 		(at 350.52 207.01)
@@ -3656,6 +4040,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 83.82) (xy 76.2 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "007d9374-9a9c-4a0c-857d-3ef0565bd953")
+	)
+	(wire
+		(pts
 			(xy 81.28 201.93) (xy 81.28 203.2)
 		)
 		(stroke
@@ -3706,6 +4100,26 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 95.25) (xy 209.55 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08902ce3-52eb-439e-9932-e423f6aea1c4")
+	)
+	(wire
+		(pts
+			(xy 196.85 198.12) (xy 209.55 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0975d0e6-f4d9-45e2-8b92-a3a1b070e01a")
+	)
+	(wire
+		(pts
 			(xy 81.28 72.39) (xy 81.28 71.12)
 		)
 		(stroke
@@ -3726,6 +4140,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 209.55) (xy 76.2 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bb7a85e-4c89-4b83-8bbe-d8feaffc56ad")
+	)
+	(wire
+		(pts
 			(xy 209.55 179.07) (xy 214.63 179.07)
 		)
 		(stroke
@@ -3733,6 +4157,16 @@
 			(type default)
 		)
 		(uuid "0d42a20e-df84-4c7d-a517-e34d5edbcf0e")
+	)
+	(wire
+		(pts
+			(xy 63.5 175.26) (xy 76.2 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ef1d118-88ee-4e88-8b86-4da222140eb2")
 	)
 	(wire
 		(pts
@@ -3806,6 +4240,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 198.12) (xy 76.2 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19b1c3f3-d34d-4d06-994c-6e0ce1140edc")
+	)
+	(wire
+		(pts
 			(xy 76.2 118.11) (xy 81.28 118.11)
 		)
 		(stroke
@@ -3834,6 +4278,26 @@
 			(type default)
 		)
 		(uuid "1e53eac0-54c0-4cd1-9e08-317c12e3cd87")
+	)
+	(wire
+		(pts
+			(xy 321.31 95.25) (xy 321.31 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f7d5b1c-8a5b-45b4-9db4-3b85827843c1")
+	)
+	(wire
+		(pts
+			(xy 63.5 186.69) (xy 76.2 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2070d53a-ead8-4538-82df-e9a1a285fc84")
 	)
 	(wire
 		(pts
@@ -3904,6 +4368,16 @@
 			(type default)
 		)
 		(uuid "267dc9f2-1635-43f6-a4b7-58850f162c3f")
+	)
+	(wire
+		(pts
+			(xy 196.85 144.78) (xy 209.55 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2a51b514-7294-4772-860b-47b593996274")
 	)
 	(wire
 		(pts
@@ -3997,6 +4471,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 106.68) (xy 76.2 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32e837ca-80e2-4d47-8b74-b34d181d34cb")
+	)
+	(wire
+		(pts
 			(xy 214.63 72.39) (xy 214.63 71.12)
 		)
 		(stroke
@@ -4015,6 +4499,16 @@
 			(color 255 153 0 1)
 		)
 		(uuid "3561c4c5-fc76-4980-b153-be9ab1f8c701")
+	)
+	(wire
+		(pts
+			(xy 63.5 133.35) (xy 76.2 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "362111b5-bddb-4c88-922b-dedc523615dd")
 	)
 	(wire
 		(pts
@@ -4065,6 +4559,16 @@
 			(type default)
 		)
 		(uuid "3e386625-5e9b-45fe-b7f3-4985126d204a")
+	)
+	(wire
+		(pts
+			(xy 196.85 87.63) (xy 209.55 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4005bf46-f0f8-4643-85de-e58fa84d0b26")
 	)
 	(wire
 		(pts
@@ -4138,6 +4642,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 49.53) (xy 76.2 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "483bb380-b548-44b8-99b7-91cb736734fd")
+	)
+	(wire
+		(pts
 			(xy 76.2 152.4) (xy 81.28 152.4)
 		)
 		(stroke
@@ -4169,6 +4683,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 140.97) (xy 209.55 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b86ac64-5c38-460f-9153-28b2449cd02b")
+	)
+	(wire
+		(pts
 			(xy 76.2 201.93) (xy 81.28 201.93)
 		)
 		(stroke
@@ -4196,6 +4720,16 @@
 			(type default)
 		)
 		(uuid "53581c8b-d00f-4bbd-8a1a-72fdd41f513d")
+	)
+	(wire
+		(pts
+			(xy 63.5 72.39) (xy 76.2 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54af399e-fd68-4cb9-81e1-84662c839b93")
 	)
 	(wire
 		(pts
@@ -4250,6 +4784,26 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 110.49) (xy 76.2 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c9d5dab-670b-4764-98d0-37e6fa143a36")
+	)
+	(wire
+		(pts
+			(xy 63.5 156.21) (xy 76.2 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d1249f8-514d-477a-bbe0-40a89cd18b39")
+	)
+	(wire
+		(pts
 			(xy 139.7 218.44) (xy 88.9 218.44)
 		)
 		(stroke
@@ -4271,6 +4825,26 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 129.54) (xy 209.55 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6092fd3e-5ab2-42f0-bc6f-1b244d1c0cd6")
+	)
+	(wire
+		(pts
+			(xy 196.85 163.83) (xy 209.55 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "60979372-3371-46f6-8086-27ef9e4a0673")
+	)
+	(wire
+		(pts
 			(xy 214.63 156.21) (xy 214.63 157.48)
 		)
 		(stroke
@@ -4278,6 +4852,16 @@
 			(type default)
 		)
 		(uuid "60ada0bc-b7fe-4b69-8402-05f58829e700")
+	)
+	(wire
+		(pts
+			(xy 63.5 121.92) (xy 76.2 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6165f029-6d81-426e-be91-d5edc81dfad7")
 	)
 	(wire
 		(pts
@@ -4292,13 +4876,23 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 93.98) (xy 180.34 99.06)
+			(xy 168.91 93.98) (xy 168.91 99.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "639addde-9d15-42ad-a845-18f14ef51574")
+	)
+	(wire
+		(pts
+			(xy 196.85 76.2) (xy 209.55 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63abe3b5-557f-4efe-8109-14c9ce2b74b8")
 	)
 	(wire
 		(pts
@@ -4332,6 +4926,26 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 95.25) (xy 76.2 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "679919b2-a118-4799-bb33-cc7ccaf29d5a")
+	)
+	(wire
+		(pts
+			(xy 63.5 163.83) (xy 76.2 163.83)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67a9c614-332f-497c-a524-f85ae9cba69e")
+	)
+	(wire
+		(pts
 			(xy 223.52 218.44) (xy 152.4 218.44)
 		)
 		(stroke
@@ -4340,6 +4954,36 @@
 			(color 255 153 0 1)
 		)
 		(uuid "691339ce-c24a-4894-801d-7a5b83f58c4c")
+	)
+	(wire
+		(pts
+			(xy 196.85 99.06) (xy 209.55 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69ac53e3-2624-47b6-a930-3a2c536e6f3e")
+	)
+	(wire
+		(pts
+			(xy 196.85 175.26) (xy 209.55 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69d305bf-89ad-4f09-b71a-a74901bbe689")
+	)
+	(wire
+		(pts
+			(xy 196.85 156.21) (xy 209.55 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6a434020-7a4f-4b44-af3f-6ab39d066553")
 	)
 	(wire
 		(pts
@@ -4403,6 +5047,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 152.4) (xy 76.2 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ff0d7dc-70af-40c1-9a35-05d948d56fff")
+	)
+	(wire
+		(pts
 			(xy 209.55 49.53) (xy 214.63 49.53)
 		)
 		(stroke
@@ -4420,6 +5074,26 @@
 			(type default)
 		)
 		(uuid "71477dc7-151c-437d-aebf-c7a664b014b4")
+	)
+	(wire
+		(pts
+			(xy 63.5 179.07) (xy 76.2 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "723fe118-182b-43b3-9cc4-55201411fca5")
+	)
+	(wire
+		(pts
+			(xy 63.5 38.1) (xy 76.2 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73763f2a-f6dd-4c1f-86e9-374cc0bee9a7")
 	)
 	(wire
 		(pts
@@ -4463,6 +5137,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 167.64) (xy 209.55 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "775497d5-9c70-4c35-bff4-bcbe98578bcf")
+	)
+	(wire
+		(pts
 			(xy 26.67 39.37) (xy 31.75 39.37)
 		)
 		(stroke
@@ -4490,6 +5174,16 @@
 			(type default)
 		)
 		(uuid "784b0184-e67a-4be3-80f9-c6293c354637")
+	)
+	(wire
+		(pts
+			(xy 63.5 64.77) (xy 76.2 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "789b1d57-ca39-4179-9577-c6d96be0a7c0")
 	)
 	(wire
 		(pts
@@ -4654,6 +5348,26 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 106.68) (xy 209.55 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a768400-67ee-4a60-84cb-5038e940d300")
+	)
+	(wire
+		(pts
+			(xy 196.85 53.34) (xy 209.55 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ac5f050-24bf-4206-bed7-862e9c9ca96b")
+	)
+	(wire
+		(pts
 			(xy 209.55 76.2) (xy 214.63 76.2)
 		)
 		(stroke
@@ -4722,6 +5436,16 @@
 			(type default)
 		)
 		(uuid "9157e282-3717-4821-9fbe-0590d3fe319d")
+	)
+	(wire
+		(pts
+			(xy 196.85 201.93) (xy 209.55 201.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91e83b38-1e69-41de-afbd-0a8ef1dfde5f")
 	)
 	(wire
 		(pts
@@ -4807,6 +5531,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 129.54) (xy 76.2 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a60c640-0a1e-453d-8acb-a21a6fa59205")
+	)
+	(wire
+		(pts
 			(xy 52.07 24.13) (xy 52.07 22.86)
 		)
 		(stroke
@@ -4814,6 +5548,16 @@
 			(type default)
 		)
 		(uuid "9aa2f83b-f912-43cd-b39e-f224de0c8a1c")
+	)
+	(wire
+		(pts
+			(xy 63.5 99.06) (xy 76.2 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bf1e2cd-8a7f-4c83-80d1-c5f01e7c5ead")
 	)
 	(wire
 		(pts
@@ -4847,6 +5591,36 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 152.4) (xy 209.55 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e28f333-9fd7-4676-904f-9d6d3533f6e5")
+	)
+	(wire
+		(pts
+			(xy 196.85 49.53) (xy 209.55 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9e9cde2e-534d-43a3-a0c3-14ee230c9e22")
+	)
+	(wire
+		(pts
+			(xy 63.5 87.63) (xy 76.2 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f579ef8-f089-4aac-8b4f-bcb7efa8223f")
+	)
+	(wire
+		(pts
 			(xy 76.2 64.77) (xy 81.28 64.77)
 		)
 		(stroke
@@ -4864,6 +5638,16 @@
 			(type default)
 		)
 		(uuid "9f79047d-1c4c-4f4a-8c88-aeca626f8adb")
+	)
+	(wire
+		(pts
+			(xy 63.5 41.91) (xy 76.2 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a05fb847-51a6-46aa-81ab-3e9d70323117")
 	)
 	(wire
 		(pts
@@ -4969,6 +5753,26 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 209.55) (xy 209.55 209.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ad8650f8-1c88-4cba-9071-2259d98b1c05")
+	)
+	(wire
+		(pts
+			(xy 196.85 133.35) (xy 209.55 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aebc03cd-ecb4-4212-9ac4-41dcd871f869")
+	)
+	(wire
+		(pts
 			(xy 361.95 151.13) (xy 374.65 151.13)
 		)
 		(stroke
@@ -5019,6 +5823,26 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 60.96) (xy 76.2 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4c1c4b5-4502-420e-ad0f-61ffdbaa6daa")
+	)
+	(wire
+		(pts
+			(xy 63.5 30.48) (xy 76.2 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b56743ac-8442-4f03-b3b5-8b97a17f0d46")
+	)
+	(wire
+		(pts
 			(xy 209.55 201.93) (xy 214.63 201.93)
 		)
 		(stroke
@@ -5026,6 +5850,16 @@
 			(type default)
 		)
 		(uuid "b7b8449c-912d-49fc-a265-497e9f5b2f6e")
+	)
+	(wire
+		(pts
+			(xy 196.85 60.96) (xy 209.55 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b7f79cb6-b218-45bf-92d2-5002f61e7a60")
 	)
 	(wire
 		(pts
@@ -5059,6 +5893,16 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 64.77) (xy 209.55 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf7ca895-b45a-4a1d-9f94-7dce084012aa")
+	)
+	(wire
+		(pts
 			(xy 81.28 118.11) (xy 81.28 116.84)
 		)
 		(stroke
@@ -5079,6 +5923,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 144.78) (xy 76.2 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c38a1649-0c39-467b-bd9d-64f3104ed489")
+	)
+	(wire
+		(pts
 			(xy 209.55 118.11) (xy 214.63 118.11)
 		)
 		(stroke
@@ -5086,6 +5940,26 @@
 			(type default)
 		)
 		(uuid "c447ae4b-344a-4ed1-ab3c-cce917c0b16d")
+	)
+	(wire
+		(pts
+			(xy 196.85 38.1) (xy 209.55 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4845f2c-9231-4478-bb9d-636a6db84b1d")
+	)
+	(wire
+		(pts
+			(xy 196.85 118.11) (xy 209.55 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c65f2ec0-c92f-46d2-994c-aaf96c273242")
 	)
 	(wire
 		(pts
@@ -5159,6 +6033,26 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 179.07) (xy 209.55 179.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbc0a3c6-a927-4647-a07c-4b7421a8a42e")
+	)
+	(wire
+		(pts
+			(xy 196.85 41.91) (xy 209.55 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd474e52-1319-4248-8490-8968a82a4373")
+	)
+	(wire
+		(pts
 			(xy 76.2 121.92) (xy 81.28 121.92)
 		)
 		(stroke
@@ -5166,6 +6060,26 @@
 			(type default)
 		)
 		(uuid "cdc261f9-899c-4b2e-a603-faefb2fa89e4")
+	)
+	(wire
+		(pts
+			(xy 313.69 95.25) (xy 313.69 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdd97d81-f749-4b64-9d56-f932706aad2a")
+	)
+	(wire
+		(pts
+			(xy 196.85 121.92) (xy 209.55 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce26219a-84b0-4f6a-b02a-e4910c0ad034")
 	)
 	(wire
 		(pts
@@ -5196,6 +6110,16 @@
 			(type default)
 		)
 		(uuid "d2777d13-feaa-4ae7-b882-5fc733f30962")
+	)
+	(wire
+		(pts
+			(xy 196.85 110.49) (xy 209.55 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2a8ee99-fb28-4f21-865a-164c3e4aa2c6")
 	)
 	(wire
 		(pts
@@ -5236,6 +6160,16 @@
 			(type default)
 		)
 		(uuid "dad1b692-a1df-470d-b6ba-4ca940f55d74")
+	)
+	(wire
+		(pts
+			(xy 63.5 190.5) (xy 76.2 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db47101a-f180-4d01-91cc-2c7be0cc9543")
 	)
 	(wire
 		(pts
@@ -5339,6 +6273,16 @@
 	)
 	(wire
 		(pts
+			(xy 63.5 167.64) (xy 76.2 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea3b2ed7-a6c8-47ce-97dd-18ffa2a7f7ca")
+	)
+	(wire
+		(pts
 			(xy 76.2 99.06) (xy 81.28 99.06)
 		)
 		(stroke
@@ -5349,6 +6293,26 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 72.39) (xy 209.55 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eccee458-2079-43a2-8cbf-af618f420e29")
+	)
+	(wire
+		(pts
+			(xy 63.5 53.34) (xy 76.2 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eebf5b46-efd6-4daa-9a87-d96d2d7c50b1")
+	)
+	(wire
+		(pts
 			(xy 81.28 129.54) (xy 81.28 128.27)
 		)
 		(stroke
@@ -5356,6 +6320,26 @@
 			(type default)
 		)
 		(uuid "ef833a33-19ee-4221-aaf2-b447c7e28623")
+	)
+	(wire
+		(pts
+			(xy 63.5 76.2) (xy 76.2 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f041f107-48e1-40b2-b735-cde496d9f3a3")
+	)
+	(wire
+		(pts
+			(xy 196.85 83.82) (xy 209.55 83.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f05781f1-9faa-4165-b703-602f04b6b163")
 	)
 	(wire
 		(pts
@@ -5377,6 +6361,16 @@
 			(color 255 0 0 1)
 		)
 		(uuid "f17efcf6-59e5-4a78-b42a-4c515be3b7bb")
+	)
+	(wire
+		(pts
+			(xy 196.85 30.48) (xy 209.55 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1afa7fc-e830-4918-82c8-cc62a3be5137")
 	)
 	(wire
 		(pts
@@ -5417,6 +6411,16 @@
 			(type default)
 		)
 		(uuid "f39d9b29-d279-43d3-8bff-4f9c796fd774")
+	)
+	(wire
+		(pts
+			(xy 63.5 201.93) (xy 76.2 201.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f56e08c9-3613-49d6-b452-f041134df0f6")
 	)
 	(wire
 		(pts
@@ -5470,6 +6474,36 @@
 	)
 	(wire
 		(pts
+			(xy 196.85 186.69) (xy 209.55 186.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f71f328b-a002-48d0-b836-c6ff332fb182")
+	)
+	(wire
+		(pts
+			(xy 63.5 140.97) (xy 76.2 140.97)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f85b9bba-aa29-46bd-825e-12fb55ca7d72")
+	)
+	(wire
+		(pts
+			(xy 63.5 118.11) (xy 76.2 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8eeee27-4923-41cc-8965-ced0c48ef8ee")
+	)
+	(wire
+		(pts
 			(xy 76.2 163.83) (xy 81.28 163.83)
 		)
 		(stroke
@@ -5480,7 +6514,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 93.98) (xy 187.96 99.06)
+			(xy 176.53 93.98) (xy 176.53 99.06)
 		)
 		(stroke
 			(width 0)
@@ -5568,6 +6602,16 @@
 			(type default)
 		)
 		(uuid "feeb76ad-d0f1-44a2-8e4c-d69ffb2de349")
+	)
+	(wire
+		(pts
+			(xy 196.85 190.5) (xy 209.55 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ffff4bb8-2268-42b8-ad5d-bbaf06374ddb")
 	)
 	(label "x2_25"
 		(at 232.41 173.99 0)
@@ -5680,7 +6724,7 @@
 		(uuid "0bf4f650-c95a-448d-89e6-f582707a73a7")
 	)
 	(label "ADC0"
-		(at 176.53 81.28 180)
+		(at 165.1 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5980,7 +7024,7 @@
 		(uuid "35c9277f-9e40-4bec-b1f9-fc91d457bc9e")
 	)
 	(label "ADC0"
-		(at 193.04 83.82 0)
+		(at 181.61 83.82 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6180,7 +7224,7 @@
 		(uuid "53f89137-3892-46c0-9ac3-a11399fa4ea8")
 	)
 	(label "ADC1"
-		(at 193.04 107.95 0)
+		(at 181.61 107.95 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6800,7 +7844,7 @@
 		(uuid "b7da60fa-01aa-4c64-9e87-0c4f83facbaa")
 	)
 	(label "+INB1"
-		(at 176.53 105.41 180)
+		(at 165.1 105.41 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6990,7 +8034,7 @@
 		(uuid "d6616bf9-9feb-4b2b-9e80-9068eda87db4")
 	)
 	(label "ADC1"
-		(at 176.53 107.95 180)
+		(at 165.1 107.95 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7190,7 +8234,7 @@
 		(uuid "eedce019-e82b-4cd2-868c-44ca00f4ec34")
 	)
 	(label "+INA1"
-		(at 176.53 83.82 180)
+		(at 165.1 83.82 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7446,7 +8490,7 @@
 	)
 	(global_label "+3.3V"
 		(shape passive)
-		(at 176.53 110.49 180)
+		(at 165.1 110.49 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7457,7 +8501,7 @@
 		)
 		(uuid "0bb7ac8f-ba0d-4e03-8cec-eac6ce94b275")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 168.9713 110.49 0)
+			(at 157.5413 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8195,7 +9239,7 @@
 	)
 	(global_label "GND"
 		(shape passive)
-		(at 187.96 93.98 0)
+		(at 176.53 93.98 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8206,7 +9250,7 @@
 		)
 		(uuid "3d11d64a-796e-4cf5-95bc-dd5ecbd09a92")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 193.7044 93.98 0)
+			(at 182.2744 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8570,7 +9614,7 @@
 	)
 	(global_label "+3.3V"
 		(shape passive)
-		(at 180.34 93.98 180)
+		(at 168.91 93.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8581,7 +9625,7 @@
 		)
 		(uuid "4ea26fe9-c625-437d-bc78-41ee741d7df9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 172.7813 93.98 0)
+			(at 161.3513 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10395,7 +11439,7 @@
 	)
 	(global_label "GND"
 		(shape passive)
-		(at 176.53 86.36 180)
+		(at 165.1 86.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10406,7 +11450,7 @@
 		)
 		(uuid "fdefdfdf-f233-4369-aa66-3d0361ab7b6b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 170.7856 86.36 0)
+			(at 159.3556 86.36 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10510,10 +11554,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0234e241-779b-4a3a-9903-9dbf6441b4e3")
 		(property "Reference" "U38"
-			(at 318.135 99.06 0)
+			(at 321.564 104.14 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10594,6 +11637,85 @@
 				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
 					(reference "U38")
 					(unit 2)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 63.5 68.58 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "0283426f-c261-4a36-99fe-5468eb46220d")
+		(property "Reference" "C55"
+			(at 61.976 62.484 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 61.468 64.262 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 64.4652 72.39 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 63.5 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "6a97f6ef-d484-4b45-8dff-23fa010c2cfd")
+		)
+		(pin "1"
+			(uuid "cb33790b-49b5-4e73-91ca-bd56b34eb2b9")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C55")
+					(unit 1)
 				)
 			)
 		)
@@ -10763,6 +11885,85 @@
 			(project "current_sensor"
 				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
 					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 196.85 137.16 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "06df5b69-291f-45c5-915c-2e6ae80aab51")
+		(property "Reference" "C77"
+			(at 195.326 131.064 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 194.818 132.842 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 197.8152 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 196.85 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "462e58f7-8fe8-4dc2-9288-cffa708a8bcc")
+		)
+		(pin "1"
+			(uuid "487bc911-d43a-4b65-b24f-9e605fb6d6da")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C77")
 					(unit 1)
 				)
 			)
@@ -10939,6 +12140,85 @@
 			(project "current_sensor"
 				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
 					(reference "U11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 196.85 57.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "09bc6fbf-7a3b-493c-91f0-1481b64bd350")
+		(property "Reference" "C70"
+			(at 195.326 51.054 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 194.818 52.832 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 197.8152 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 196.85 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "99bb07ce-a02f-4a1b-ade2-123a30e7e02f")
+		)
+		(pin "1"
+			(uuid "cbaad046-350b-41c7-949d-453cb504f223")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C70")
 					(unit 1)
 				)
 			)
@@ -11307,6 +12587,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 63.5 148.59 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "14edbf47-c316-4a60-9357-28f356847eb1")
+		(property "Reference" "C62"
+			(at 61.976 142.494 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 61.468 144.272 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 64.4652 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 63.5 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e393afa8-9137-4b07-ad3c-b1352fc005d0")
+		)
+		(pin "1"
+			(uuid "10d9b48a-a94c-4821-8c9c-d212b5361c61")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C62")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CT100_custom:CT100LW-IS6")
 		(at 223.52 166.37 0)
 		(mirror y)
@@ -11394,6 +12753,85 @@
 			(project "current_sensor"
 				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
 					(reference "U32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 196.85 125.73 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "164e266a-831f-423a-8961-e01992157931")
+		(property "Reference" "C76"
+			(at 195.326 119.634 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 194.818 121.412 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 197.8152 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 196.85 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0edb14c1-22c2-45fb-aaff-771ba79c8dc9")
+		)
+		(pin "1"
+			(uuid "b177d421-0c55-4056-bc32-24cf8b5a66b7")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C76")
 					(unit 1)
 				)
 			)
@@ -11742,6 +13180,164 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 63.5 114.3 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1ec339e2-452d-4e9f-bc74-7a104d388579")
+		(property "Reference" "C59"
+			(at 61.976 108.204 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 61.468 109.982 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 64.4652 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 63.5 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "ed9ef4d0-ba23-4571-a21a-246e26128fac")
+		)
+		(pin "1"
+			(uuid "6052f528-4e97-46af-a77e-b5a69232ccbc")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C59")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 63.5 182.88 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1f4fe152-e05e-451d-87ae-be5e01138642")
+		(property "Reference" "C65"
+			(at 61.976 176.784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 61.468 178.562 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 64.4652 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 63.5 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "72d29030-8478-4f44-9a1c-ac1717d099c9")
+		)
+		(pin "1"
+			(uuid "4445a12f-d235-4f2a-a55b-2d5be05c3399")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C65")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CT100_custom:CT100LW-IS6")
 		(at 90.17 109.22 0)
 		(mirror y)
@@ -11912,6 +13508,85 @@
 			(project "current_sensor"
 				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
 					(reference "C32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 63.5 45.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "27ef8009-b0de-4b40-b94a-efd25dd410ba")
+		(property "Reference" "C53"
+			(at 61.976 39.624 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 61.468 41.402 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 64.4652 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 63.5 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "5da5e0be-ecdb-49f3-a53c-71b72f69c7bd")
+		)
+		(pin "1"
+			(uuid "301c0cea-b89e-433c-8fae-54d16954f668")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C53")
 					(unit 1)
 				)
 			)
@@ -12330,6 +14005,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 317.5 100.33 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3786b034-9e89-47b9-912e-951e4bb4a126")
+		(property "Reference" "C51"
+			(at 323.342 101.092 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 323.342 99.314 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 321.31 99.3648 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 317.5 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 317.5 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "b95e6594-5a46-4ad9-8d4b-17415b31a93b")
+		)
+		(pin "1"
+			(uuid "edbc10c9-fa13-4d8b-9445-bef2085eb7b6")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 209.55 34.29 0)
 		(mirror y)
@@ -12414,8 +14168,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 184.15 99.06 270)
-		(mirror x)
+		(at 196.85 68.58 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12423,9 +14176,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "3a7d4e61-a1b3-45d1-8f0b-33ef841ef291")
-		(property "Reference" "C50"
-			(at 190.246 100.584 90)
+		(uuid "39ce3934-f148-42a9-b350-429bc384bc92")
+		(property "Reference" "C71"
+			(at 195.326 62.484 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12435,7 +14188,7 @@
 			)
 		)
 		(property "Value" "1uF"
-			(at 190.5 98.806 90)
+			(at 194.818 64.262 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12445,7 +14198,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
-			(at 180.34 98.0948 0)
+			(at 197.8152 72.39 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12456,7 +14209,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 99.06 0)
+			(at 196.85 68.58 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12467,7 +14220,86 @@
 			)
 		)
 		(property "Description" "1uF 10V SMD Tantalum Capacitor"
-			(at 184.15 99.06 0)
+			(at 196.85 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4c43f466-ca5d-4514-a204-60f42c528f75")
+		)
+		(pin "1"
+			(uuid "31937ec7-3f48-45b5-aca3-3a8012b1b5ac")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C71")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 172.72 99.06 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3a7d4e61-a1b3-45d1-8f0b-33ef841ef291")
+		(property "Reference" "C50"
+			(at 178.308 100.076 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 178.816 98.298 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 176.53 98.0948 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 172.72 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12569,6 +14401,85 @@
 			(project "current_sensor"
 				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
 					(reference "C35")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 196.85 45.72 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "3bf1b438-1e97-4545-bcef-99241e315ff0")
+		(property "Reference" "C69"
+			(at 195.326 39.624 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 194.818 41.402 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 197.8152 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 196.85 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4094eae9-7a61-4307-abcb-8d728ee7f781")
+		)
+		(pin "1"
+			(uuid "29b5eb74-ed40-44ae-bb3a-38060cd4be25")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C69")
 					(unit 1)
 				)
 			)
@@ -12775,6 +14686,85 @@
 			(project "current_sensor"
 				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
 					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 196.85 148.59 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "41e84a1f-64e2-4eb2-b6d6-365c623f94ec")
+		(property "Reference" "C78"
+			(at 195.326 142.494 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 194.818 144.272 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 197.8152 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 196.85 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "46ffb327-789c-4390-9229-53accd4e15dd")
+		)
+		(pin "1"
+			(uuid "6a043a45-ab9e-4f7d-8b60-ab4d1db967e3")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C78")
 					(unit 1)
 				)
 			)
@@ -13213,6 +15203,243 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 196.85 171.45 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4c8d0277-0363-405e-8238-d98001851f38")
+		(property "Reference" "C80"
+			(at 195.326 165.354 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 194.818 167.132 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 197.8152 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 196.85 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "501453c9-5976-499c-a66d-8b5fccd2554e")
+		)
+		(pin "1"
+			(uuid "1c80861c-005e-43f5-af80-5b26f0abeb16")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C80")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 63.5 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "56a7ef0c-2b3e-4ec0-beec-070891836235")
+		(property "Reference" "C63"
+			(at 61.976 153.924 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 61.468 155.702 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 64.4652 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 63.5 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a567ad72-163d-4e84-8297-d976ee44d7c9")
+		)
+		(pin "1"
+			(uuid "e8e04573-0a02-4135-9ac5-0bfe47cb6119")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C63")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 196.85 114.3 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "577e4b0d-f7e7-4f77-88fb-a3a7ab734f1e")
+		(property "Reference" "C75"
+			(at 195.326 108.204 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 194.818 109.982 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 197.8152 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 196.85 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "336284e4-018e-49e7-9022-3bea85c6a73a")
+		)
+		(pin "1"
+			(uuid "56cee67b-55c2-4c2d-b64a-5970fd58b5d9")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C75")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 209.55 45.72 0)
 		(mirror y)
@@ -13614,6 +15841,164 @@
 			(project "current_sensor"
 				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
 					(reference "C23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 63.5 34.29 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5f47858d-7a3c-4f23-b959-fc119aa3ecca")
+		(property "Reference" "C52"
+			(at 61.976 28.194 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 61.468 29.972 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 64.4652 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 63.5 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "da929acb-01ee-4514-a169-2bae5ef41b6c")
+		)
+		(pin "1"
+			(uuid "7ae8b0a8-4773-45b5-ab7e-1ae15fe5e3dd")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 63.5 205.74 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "6548e3bf-452b-4caa-adb6-4880ee292949")
+		(property "Reference" "C67"
+			(at 61.976 199.644 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 61.468 201.422 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 64.4652 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 205.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 63.5 205.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "97998a48-4c28-49ea-9007-38add10b15db")
+		)
+		(pin "1"
+			(uuid "58a8776d-f845-46db-b5bd-553fca232a22")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C67")
 					(unit 1)
 				)
 			)
@@ -14338,6 +16723,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 63.5 125.73 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "78934119-cef1-4d9a-a0e2-da2b43995a16")
+		(property "Reference" "C60"
+			(at 61.976 119.634 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 61.468 121.412 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 64.4652 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 63.5 125.73 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c95067ea-766c-4f70-95ec-938d99d4729b")
+		)
+		(pin "1"
+			(uuid "6271de15-9638-4156-9425-524536552d93")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C60")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 209.55 57.15 0)
 		(mirror y)
@@ -14667,6 +17131,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 196.85 205.74 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7e1ccfa1-7709-493c-b380-577daee15945")
+		(property "Reference" "C83"
+			(at 195.326 199.644 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 194.818 201.422 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 197.8152 209.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 205.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 196.85 205.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d7b45867-4d9a-4e4c-a5be-b9769afcf648")
+		)
+		(pin "1"
+			(uuid "e40f97a3-9784-47d7-bbb0-fb484306fffb")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C83")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 76.2 91.44 0)
 		(mirror y)
@@ -14833,18 +17376,18 @@
 		)
 	)
 	(symbol
-		(lib_id "CT100_custom:AD8572")
-		(at 179.07 104.14 0)
-		(unit 2)
+		(lib_id "Device:C_Polarized")
+		(at 63.5 194.31 0)
+		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "849d4d70-4258-462e-b75f-3cdbfec8f98d")
-		(property "Reference" "U19"
-			(at 187.452 103.886 0)
+		(uuid "83a560bb-8b23-41fb-8428-9ec3d1464a6c")
+		(property "Reference" "C66"
+			(at 61.976 188.214 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14853,8 +17396,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 179.07 104.14 0)
+		(property "Value" "1uF"
+			(at 61.468 189.992 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14863,8 +17406,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-8_4.4x3mm_P0.65mm"
-			(at 179.578 101.092 0)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 64.4652 198.12 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14875,7 +17418,86 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 179.07 104.14 0)
+			(at 63.5 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 63.5 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "3ea79354-b3cc-46e3-a3c6-9fb20d8325b9")
+		)
+		(pin "1"
+			(uuid "411c3c47-65d1-4eb6-9bb5-2fa413876f88")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C66")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CT100_custom:AD8572")
+		(at 167.64 104.14 0)
+		(unit 2)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "849d4d70-4258-462e-b75f-3cdbfec8f98d")
+		(property "Reference" "U19"
+			(at 176.022 103.886 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 167.64 104.14 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:TSSOP-8_4.4x3mm_P0.65mm"
+			(at 168.148 101.092 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14886,7 +17508,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 179.07 104.14 0)
+			(at 167.64 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15106,6 +17728,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 196.85 182.88 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "8a6c1bd1-2b2f-4f9f-b917-e347a8720a54")
+		(property "Reference" "C81"
+			(at 195.326 176.784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 194.818 178.562 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 197.8152 186.69 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 196.85 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "55b62d16-8294-4398-a5f3-a6c0021abef2")
+		)
+		(pin "1"
+			(uuid "66d391d8-bb5c-4a3b-b163-9e636e26cfcc")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C81")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CT100_custom:CT100LW-IS6")
 		(at 90.17 166.37 0)
 		(mirror y)
@@ -15283,7 +17984,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 184.15 93.98 90)
+		(at 172.72 93.98 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15294,7 +17995,7 @@
 		(fields_autoplaced yes)
 		(uuid "97271f90-d505-4294-a3a6-2a1a9ad669a5")
 		(property "Reference" "C42"
-			(at 184.15 86.36 90)
+			(at 172.72 86.36 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15304,7 +18005,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 184.15 88.9 90)
+			(at 172.72 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15314,7 +18015,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 187.96 93.0148 0)
+			(at 176.53 93.0148 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15325,7 +18026,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 184.15 93.98 0)
+			(at 172.72 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15336,7 +18037,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 184.15 93.98 0)
+			(at 172.72 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15356,6 +18057,85 @@
 			(project "current_sensor"
 				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
 					(reference "C42")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 196.85 194.31 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "98b4641c-1bc4-4e4f-a211-78ea7383a54a")
+		(property "Reference" "C82"
+			(at 195.326 188.214 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 194.818 189.992 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 197.8152 198.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 196.85 194.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "6f3ec117-60d8-47f3-8d32-08c6dd798267")
+		)
+		(pin "1"
+			(uuid "5b36e26b-79d0-4462-9add-20eab0b802c1")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C82")
 					(unit 1)
 				)
 			)
@@ -15621,8 +18401,8 @@
 		)
 	)
 	(symbol
-		(lib_id "CT100_custom:AD8572")
-		(at 181.61 81.28 0)
+		(lib_id "Device:C_Polarized")
+		(at 63.5 80.01 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15630,9 +18410,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "9db2a87d-b43f-4c3c-86e0-706cfb2d773e")
-		(property "Reference" "U19"
-			(at 186.182 79.248 0)
+		(uuid "9b47e37f-cbea-4b12-85ea-887ab4bebcad")
+		(property "Reference" "C56"
+			(at 61.976 73.914 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15641,8 +18421,8 @@
 				)
 			)
 		)
-		(property "Value" ""
-			(at 181.61 81.28 0)
+		(property "Value" "1uF"
+			(at 61.468 75.692 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15651,8 +18431,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:TSSOP-8_4.4x3mm_P0.65mm"
-			(at 182.118 78.232 0)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 64.4652 83.82 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15663,7 +18443,86 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 81.28 0)
+			(at 63.5 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 63.5 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e69c6aef-dcd3-4767-8d8b-b2f7e4c4f46e")
+		)
+		(pin "1"
+			(uuid "09a2f91f-14c6-4c83-bf4a-e59081967702")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C56")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "CT100_custom:AD8572")
+		(at 170.18 81.28 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9db2a87d-b43f-4c3c-86e0-706cfb2d773e")
+		(property "Reference" "U19"
+			(at 174.752 79.248 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" ""
+			(at 170.18 81.28 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_SO:TSSOP-8_4.4x3mm_P0.65mm"
+			(at 170.688 78.232 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 170.18 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15674,7 +18533,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 181.61 81.28 0)
+			(at 170.18 81.28 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15712,6 +18571,243 @@
 			(project "current_sensor"
 				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
 					(reference "U19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 63.5 171.45 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9f096316-965b-4501-b9bf-7c98bce68328")
+		(property "Reference" "C64"
+			(at 61.976 165.354 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 61.468 167.132 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 64.4652 175.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 63.5 171.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "57e55374-c48d-4e3f-b9d6-6382dfb87587")
+		)
+		(pin "1"
+			(uuid "28a3ed82-23c6-4f2c-af32-4ebb249cc15e")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C64")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 63.5 91.44 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9f09b4ba-de24-4dfa-b625-9a58e6ae1c19")
+		(property "Reference" "C57"
+			(at 61.976 85.344 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 61.468 87.122 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 64.4652 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 63.5 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c56bc31c-5631-4405-86e6-41f4bb4f7863")
+		)
+		(pin "1"
+			(uuid "fb15d07a-28f4-447a-9e1c-5aef720f2b21")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C57")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 63.5 57.15 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a07d35c5-beee-4dab-9dcb-50a5d41f1218")
+		(property "Reference" "C54"
+			(at 61.976 51.054 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 61.468 52.832 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 64.4652 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 63.5 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "bd8aa59d-e035-4e18-9599-89e7410c1c9b")
+		)
+		(pin "1"
+			(uuid "8dff65a0-380b-4361-a92d-fb35f26c4bf8")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C54")
 					(unit 1)
 				)
 			)
@@ -16330,6 +19426,164 @@
 			(project "current_sensor"
 				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
 					(reference "C30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 196.85 80.01 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b5b649d7-67ec-4ce8-99e4-4e1502874834")
+		(property "Reference" "C72"
+			(at 195.326 73.914 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 194.818 75.692 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 197.8152 83.82 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 196.85 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "54a84fed-617e-4567-ae59-17a715d6d825")
+		)
+		(pin "1"
+			(uuid "2303588d-3636-4ad3-b3a0-7617328f0f59")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C72")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 196.85 91.44 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "b6abc010-5746-4042-9dd3-39054d010a85")
+		(property "Reference" "C73"
+			(at 195.326 85.344 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 194.818 87.122 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 197.8152 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 196.85 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d3a6632e-a7e3-4bb5-a85d-f5b511fdd9a5")
+		)
+		(pin "1"
+			(uuid "a9bb5336-3b3a-4cf1-9329-d71789fad702")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C73")
 					(unit 1)
 				)
 			)
@@ -16966,6 +20220,85 @@
 			(project "current_sensor"
 				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
 					(reference "U39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 196.85 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c5e811a8-e421-4bf4-b406-b1473b50a408")
+		(property "Reference" "C79"
+			(at 195.326 153.924 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 194.818 155.702 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 197.8152 163.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 196.85 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "30379c90-3e09-4420-8972-e7112bbb3c3f")
+		)
+		(pin "1"
+			(uuid "c8670d00-d5d2-46bb-b005-132079fda323")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C79")
 					(unit 1)
 				)
 			)
@@ -17669,6 +21002,164 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 196.85 102.87 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d0a98b5a-0a17-4552-a083-f529b345f3f2")
+		(property "Reference" "C74"
+			(at 195.326 96.774 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 194.818 98.552 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 197.8152 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 196.85 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4c146737-4864-44b8-8151-8a09ffb93fe6")
+		)
+		(pin "1"
+			(uuid "dc110416-07ca-4ccb-aeaa-34d9ef318b50")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C74")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 63.5 102.87 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "d5564e21-b92b-48c1-9f3d-048e9ba3a378")
+		(property "Reference" "C58"
+			(at 61.976 96.774 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 61.468 98.552 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 64.4652 106.68 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 63.5 102.87 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d1cebd32-d0c6-42fc-b265-1af1dda4e976")
+		)
+		(pin "1"
+			(uuid "102d2058-4702-4563-a9fc-effb3bc87ce4")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C58")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "CT100_custom:AD8572")
 		(at 314.96 81.28 0)
 		(unit 1)
@@ -17678,10 +21169,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d608c838-cfed-46a5-af51-d87beb079dba")
 		(property "Reference" "U38"
-			(at 318.135 74.93 0)
+			(at 320.548 79.248 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18600,6 +22090,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 63.5 137.16 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e1bd890e-9ea1-4ec2-b080-3b25127c844c")
+		(property "Reference" "C61"
+			(at 61.976 131.064 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 61.468 132.842 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 64.4652 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 63.5 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 63.5 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "900e6731-e208-44ed-8797-3b9ac98fe840")
+		)
+		(pin "1"
+			(uuid "c05e984e-523e-4571-98f1-7b90db52213f")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C61")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 76.2 80.01 0)
 		(mirror y)
@@ -19105,6 +22674,85 @@
 			(project "current_sensor"
 				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
 					(reference "U15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 196.85 34.29 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f0f50815-15fe-4044-9c4c-994bd51aaf2c")
+		(property "Reference" "C68"
+			(at 195.326 28.194 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1uF"
+			(at 194.818 29.972 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_Tantalum_SMD:CP_EIA-2012-12_Kemet-R"
+			(at 197.8152 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 196.85 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "1uF 10V SMD Tantalum Capacitor"
+			(at 196.85 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "e903da32-8531-4ca9-b30d-701fad1f0412")
+		)
+		(pin "1"
+			(uuid "bda0c16d-13e8-447d-bf6b-799515b5852c")
+		)
+		(instances
+			(project "current_sensor"
+				(path "/985b5080-a2ef-4bb1-84f6-278928a46467"
+					(reference "C68")
 					(unit 1)
 				)
 			)
